@@ -29,7 +29,7 @@ eye_load_detector/
 
 Clone this repository:
 
-git clone https://github.com/utkarshv12/eye_load_detector.git
+git clone https://github.com/utkarshv12/eye-load-detector.git
 cd eye_load_detector
 
 Create and activate a virtual environment:
