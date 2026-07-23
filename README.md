@@ -29,7 +29,7 @@ eye_load_detector/
 
 Clone this repository:
 
-git clone https://github.com/inboxprashant/eye_load_detector.git
+git clone https://github.com/utkarshv12/eye_load_detector.git
 cd eye_load_detector
 
 Create and activate a virtual environment:
@@ -50,6 +50,6 @@ Copy code: python simulator.py
 Train the model
 Copy code: python train.py
 📧 Contact
-GitHub: inboxprashant
+GitHub: [utkarshv12](https://github.com/utkarshv12)
 
-Email: inboxprashantkumar@gmail.com
+Email: vermapriyank730@gmail.com
